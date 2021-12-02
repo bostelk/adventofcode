@@ -3,7 +3,6 @@ DAY 2
 PART 1
 """
 import sys
-import re
 filename = sys.argv[1]
 with open(filename, 'r') as file:
     line = file.readline()
