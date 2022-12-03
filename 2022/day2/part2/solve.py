@@ -1,6 +1,6 @@
 """
 DAY 2
-PART 1
+PART 2
 """
 import sys
 from functools import reduce
