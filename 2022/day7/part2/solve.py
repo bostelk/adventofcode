@@ -1,6 +1,6 @@
 """
 DAY 7
-PART 1
+PART 2
 """
 import sys
 import re
